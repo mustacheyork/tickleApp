@@ -502,6 +502,7 @@
 				829645771B752C22007E7903 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		829645781B752C22007E7903 /* Build configuration list for PBXNativeTarget "tickleAppTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +511,7 @@
 				8296457A1B752C22007E7903 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
